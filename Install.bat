@@ -52,9 +52,9 @@ cls
 echo Starting MCMOD installer...
 cd ../build/1
 build.bat
+pause
 cls
 echo Herbin12's Moderate Mod Pack [version %mpver%; installer v%instver%]
 echo -
-echo Thank you for installing Herbin12's Moderate Mod Pack version %mpver%!
-echo You may now close this window.
+echo If you see this message, something went horribly wrong. Try Reinstalling.
 pause
