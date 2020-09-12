@@ -17,4 +17,3 @@ copy SDR.jar C:\Users\%username%\AppData\Roaming\.minecraft\mods\1.7.10\
 copy TCO.jar C:\Users\%username%\AppData\Roaming\.minecraft\mods\1.7.10\
 copy WAILA.jar C:\Users\%username%\AppData\Roaming\.minecraft\mods\1.7.10\
 copy XAE.jar C:\Users\%username%\AppData\Roaming\.minecraft\mods\1.7.10\
-pause
