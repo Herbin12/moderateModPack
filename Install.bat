@@ -2,7 +2,7 @@
 color 9F
 set foldernum=%random%
 set mpver=1.2
-set instver=1.1
+set instver=1.2
 title Herbin12's Moderate Mod Pack Installer [installer v%instver%]
 cls
 echo Herbin12's Moderate Mod Pack [version %mpver%; installer v%instver%]
@@ -13,7 +13,7 @@ echo The folder will be located at C:\Users\%username%\AppData\Roaming\.minecraf
 echo -
 echo When you are ready to install HMMP version %mpver%, press any key.
 pause
-cd fml
+cd forge
 cls
 echo Herbin12's Moderate Mod Pack [version %mpver%; installer v%instver%]
 echo STEP 1 - INSTALLING FORGE 1.7.10
@@ -50,7 +50,7 @@ mkdir %appdata%\.minecraft\mods
 mkdir %appdata%\.minecraft\mods\1.7.10
 cls
 echo Starting MCMOD installer...
-cd ../build/1
+cd ../versions/1.20
 build.bat
 pause
 cls

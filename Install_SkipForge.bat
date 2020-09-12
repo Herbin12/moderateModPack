@@ -2,7 +2,7 @@
 color 9F
 set foldernum=%random%
 set mpver=1.2
-set instver=1.1-SkipForge
+set instver=1.2-SkipForge
 title Herbin12's Moderate Mod Pack Installer (SkipForge) [installer v%instver%]
 cls
 echo Herbin12's Moderate Mod Pack [version %mpver%; installer v%instver%]
@@ -34,7 +34,7 @@ mkdir %appdata%\.minecraft\mods
 mkdir %appdata%\.minecraft\mods\1.7.10
 cls
 echo Starting MCMOD installer...
-cd build/1
+cd versions/1.20
 build.bat
 cls
 echo Herbin12's Moderate Mod Pack [version %mpver%; installer v%instver%]

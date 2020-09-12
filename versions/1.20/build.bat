@@ -1,4 +1,4 @@
-cd ../../packmods
+cd ../../mods
 color 71
 title MCMOD Installer [Herbin12's Moderate Mod Pack]
 copy BPS.jar C:\Users\%username%\AppData\Roaming\.minecraft\mods\1.7.10\
