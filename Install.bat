@@ -13,7 +13,7 @@ echo The folder will be located at C:\Users\%username%\AppData\Roaming\.minecraf
 echo -
 echo When you are ready to install HMMP version %mpver%, press any key.
 pause
-cd forge
+cd fml
 cls
 echo Herbin12's Moderate Mod Pack [version %mpver%; installer v%instver%]
 echo STEP 1 - INSTALLING FORGE 1.7.10
