@@ -50,7 +50,7 @@ mkdir %appdata%\.minecraft\mods
 mkdir %appdata%\.minecraft\mods\1.7.10
 cls
 echo Starting MCMOD installer...
-cd ../versions/1.20
+cd ../versions/1.20.1
 build.bat
 pause
 cls
